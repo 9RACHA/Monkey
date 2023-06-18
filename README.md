@@ -1,5 +1,11 @@
 # Monkey
 
+## Array, For, Equals, Invoke:
+
+### Array:
+Es una estructura de datos que permite almacenar una colección de elementos del mismo tipo en una secuencia contigua en memoria. Puedes acceder a los elementos del array utilizando un índice numérico.Tienen un tamaño fijo una vez que se crean, por lo que no puedes agregar o eliminar elementos una vez definido el tamaño inicial.
+
+
 Realizar un programa en Unity que reproduzca el mítico duelo de insultos de Monkey Island. El
 programa no utilizará elementos gráficos de Unity, tan sólo la entrada y salida de texto, tanto por
 consola como en el interfaz de usuario mediante la utilización de Immediate Mode GUI (IMGUI) y
