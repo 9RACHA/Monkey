@@ -5,6 +5,13 @@
 ### Array:
 Es una estructura de datos que permite almacenar una colección de elementos del mismo tipo en una secuencia contigua en memoria. Puedes acceder a los elementos del array utilizando un índice numérico.Tienen un tamaño fijo una vez que se crean, por lo que no puedes agregar o eliminar elementos una vez definido el tamaño inicial.
 
+### For:
+Es una estructura de control que permite repetir un bloque de código un número específico de veces. Se compone de tres partes principales: la inicialización, la condición de continuación y la actualización. Es útil cuando sabes de antemano la cantidad exacta de veces que deseas repetir una determinada acción.
+
+### Equals
+Es un método en C# que se utiliza para comparar si dos objetos son iguales en cuanto a su contenido. Puede ser sobrescrito por las clases derivadas para proporcionar una implementación personalizada de la comparación de igualdad.
+
+
 
 Realizar un programa en Unity que reproduzca el mítico duelo de insultos de Monkey Island. El
 programa no utilizará elementos gráficos de Unity, tan sólo la entrada y salida de texto, tanto por
