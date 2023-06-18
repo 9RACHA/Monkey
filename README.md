@@ -11,6 +11,8 @@ Es una estructura de control que permite repetir un bloque de código un número
 ### Equals
 Es un método en C# que se utiliza para comparar si dos objetos son iguales en cuanto a su contenido. Puede ser sobrescrito por las clases derivadas para proporcionar una implementación personalizada de la comparación de igualdad.
 
+### Invoke:
+Se utiliza para invocar (llamar) a un método o delegado en tiempo de ejecución. Puedes usarlo para llamar a un método de manera dinámica, especialmente cuando no conoces el método en tiempo de compilación o cuando deseas ejecutar un método de forma genérica. 
 
 
 Realizar un programa en Unity que reproduzca el mítico duelo de insultos de Monkey Island. El
